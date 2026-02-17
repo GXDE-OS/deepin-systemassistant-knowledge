@@ -1,0 +1,11 @@
+deepin-systemassistant-knowledge (0.0.18-1) unstable; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Tue, 23 Sep 2025 11:01:18 +0800
+
+deepin-systemassistant-knowledge (0.0.1) unstable; urgency=medium
+
+  * Initial deepin system assistant knowleadge base
+
+ -- He Xiaodong <hexiaodong@uniontech.com>  Mon, 13 May 2024 10:24:02 +0800

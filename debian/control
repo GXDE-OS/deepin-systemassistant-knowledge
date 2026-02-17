@@ -1,0 +1,13 @@
+Source: deepin-systemassistant-knowledge
+Section: misc
+Priority: optional
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Standards-Version: 3.9.8
+Homepage: http://www.deepin.org
+Build-Depends: debhelper (>= 9), cmake
+
+Package: deepin-systemassistant-knowledge
+Architecture: any
+Depends: ${misc:Depends}
+Description: deepin-systemassistant-knowledge
+ This package contains the knowledge data for system assistant.

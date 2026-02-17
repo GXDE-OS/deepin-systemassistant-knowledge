@@ -1,0 +1,6 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: deepin-systemassistant-knowledge
+
+Files: *
+Copyright: 2017 Deepin Technology Co., Ltd.
+License: MIT
