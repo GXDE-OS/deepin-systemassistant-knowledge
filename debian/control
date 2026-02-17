@@ -7,7 +7,7 @@ Homepage: http://www.deepin.org
 Build-Depends: debhelper (>= 9), cmake
 
 Package: deepin-systemassistant-knowledge
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: deepin-systemassistant-knowledge
  This package contains the knowledge data for system assistant.
